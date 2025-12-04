@@ -27,7 +27,8 @@ End the program
     print(f"Swapped values are: {a} {b}")
 
 ## OUTPUT:
-![Result pic](result.png)
+<img width="1282" height="375" alt="image" src="https://github.com/user-attachments/assets/9a0c25d8-093c-4002-9eb1-f337e0dceded" />
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
